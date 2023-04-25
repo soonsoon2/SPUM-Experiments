@@ -12,7 +12,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 Copyright (c) 2023 SOONSOON
 
 ============================================
-SPUM (순순 픽셀 유닛 메이커) 실험적 기능 라이선스 (한글)
+#SPUM (순순 픽셀 유닛 메이커) 실험적 기능 라이선스 (한글)
 
 1. 소프트웨어에는 SPUM (순순 픽셀 유닛 메이커) Unity 에셋을 위해 특별히 설계된 실험적 기능이 포함되어 있습니다.
 2. SPUM을 포함한 Unity 프로젝트를 사용하는 모든 사람은 코드를 사용하고 기여할 수 있는 자유를 가집니다.
